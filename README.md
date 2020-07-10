@@ -1,5 +1,15 @@
-# Nick Nisi
+# Nick Nisi's ~~MySpace~~ GitHub
+![](images/ani138.gif)
 
+Hi! I'm Nick and I'm a JavaScript/TypeScript developer from Omaha, NE! I also really like vim! Check out my [Dotfiles](https://github.com/nicknisi/dotfiles).
+
+![](images/divider_53.gif)
+
+- [nicknisi.com](https://nicknisi.com)
+- [Twitter](https://github.com/nicknisi)
+- [LinkedIn](https://linkedin.com/in/nicknisi)
+
+![](images/ani-bunny.gif)
 
 ```
                                                                                 
@@ -38,3 +48,7 @@
             ###%%%%%%%%%(((//////////////////(((/////////**/(((//*              
             ***//////((((((//////////////////(((/////////******,,,              
 ```
+
+![](images/friends.gif)
+
+![](images/fires.gif)
