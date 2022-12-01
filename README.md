@@ -2,5 +2,4 @@ Hi! I'm Nick and I'm a JavaScript/TypeScript developer from Omaha, NE. I have co
 
 - [nicknisi.com](https://nicknisi.com)
 - [Twitter](https://twitter.com/nicknisi)
-- <a rel="me" href="https://mastodon.social/@nicknisi">&amp;nicknisi&amp;mastodon.social</a>
 - [LinkedIn](https://linkedin.com/in/nicknisi)
