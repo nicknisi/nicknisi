@@ -21,8 +21,9 @@ Hi! I'm Nick and I'm a JavaScript/TypeScript developer from Omaha, NE. I have co
 
 ## 🤝 Let's Connect!
 * 🌍 Blog: [nicknisi.com](https://nicknisi.com)
-* 🐦 Twitter: [@nicknisi](https://twitter.com/nicknisi)
+* * 🦋 BlueSky: [@nicknisi.com](https://bsky.app/profile/nicknisi.com)
 * 💼 LinkedIn: [in/nicknisi](https://linkedin.com/in/nicknisi)
+* 🐦 Twitter: [@nicknisi](https://twitter.com/nicknisi)
 
 ---
 ⭐ _Feel free to reach out for collaborations or just to say hi!_
