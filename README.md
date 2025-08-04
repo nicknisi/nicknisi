@@ -1,29 +1,49 @@
-# 👋 Hi, I'm Nick Nisi
+# Hey, I'm Nick Nisi 👋
 
-Hi! I'm Nick and I'm a JavaScript/TypeScript developer from Omaha, NE. I have contributed to multiple open source projects, including [dojo](https://dojo.io), [intern](https://intern.io), and [typedoc](https://typedoc.org). I am a panelist on [JS Party](https://changelog.com/jsparty) and formerly on [TalkScript](https://talkscript.fm). I am also an organizer and Emcee of the [Nebraska JavaScript Conference](https://nejsconf.com) and [TypeScript Conf](https://tsconf.io).
+Developer Experience Engineer at [WorkOS](https://workos.com) making auth delightful for developers.
 
-## 🎤 Media & Community
-* 🎙️ Regular panelist on JS Party podcast
-* 🎧 Former host of TalkScript podcast
-* 📢 Conference speaker and emcee
-* 🎪 Conference organizer (NEJSConf & TSConf)
+## What I'm Building
 
-## 🛠️ Tech Stack
-* 💻 JavaScript & TypeScript
-* ⚡ Open Source Enthusiast
-* 🔧 Web Development
-* 🌐 Full Stack Development
+### 💼 Developer Experience Engineer @ WorkOS
+Obsessing over developer happiness. Building tools, docs, and experiences that make authentication simple.
 
-## 🌟 Open Source
-* 🔥 [dojo](https://dojo.io) contributor
-* 🧪 [intern](https://intern.io) contributor
-* 📚 [typedoc](https://typedoc.org) contributor
+### 🤖 AI Explorer
+From skeptic to believer. Now vibe coding with Claude and pushing boundaries of AI-assisted development.
 
-## 🤝 Let's Connect!
-* 🌍 Blog: [nicknisi.com](https://nicknisi.com)
-* 🦋 BlueSky: [@nicknisi.com](https://bsky.app/profile/nicknisi.com)
-* 💼 LinkedIn: [in/nicknisi](https://linkedin.com/in/nicknisi)
-* 🐦 Twitter: [@nicknisi](https://twitter.com/nicknisi)
+## Community Impact
+
+### 🎪 Current Organizer
+- **NebraskaJS:** Monthly meetup bringing developers together
+
+### 🏆 Past Conference Creator
+- **NEJS Conf:** Ran Nebraska's JavaScript conference
+- **TSConf:** Founded the TypeScript community conference
+
+### 🎙️ Former JS Party Panelist
+Seven years of weekly JavaScript conversations. The show ended, but the community lives on.
+
+### 💍 Wedding Officiant
+11 ceremonies and counting. Yes, really.
+
+## Technical DNA
+
+**16+ years** writing code that matters.
+
+**TypeScript evangelist.** Clean code advocate. Developer experience obsessed.
+
+**Open source contributor:**
+- [dojo](https://dojo.io)
+- [intern](https://intern.io)
+- [typedoc](https://typedoc.org)
+
+**Ex-Meta engineer.** Shipped features to millions. Learned what scale really means.
+
+## Connect
+
+🌐 [nicknisi.com](https://nicknisi.com)  
+🦋 [nicknisi.com](https://bsky.app/profile/nicknisi.com)  
+🐘 [@nicknisi@mastodon.social](https://mastodon.social/@nicknisi)  
 
 ---
-⭐ _Feel free to reach out for collaborations or just to say hi!_
+
+*Currently: Making developers smile at WorkOS. Exploring AI's role in development. Building the future.*
